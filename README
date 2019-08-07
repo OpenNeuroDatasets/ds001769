@@ -30,7 +30,7 @@ including motion correction, slice timing correction, brain extraction, high-pas
 and with or without spatial smoothing (i.e., FWHM= 5 mm or FWHM=0 mm).  
 2. ICA was performed with MELODIC v3.15 (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MELODIC).  
 3. IC classification was manually performed using melview (https://git.fmrib.ox.ac.uk/fsl/melview).  
-4. Artefact removal was performed using fsl_regfilt in FSL’s MELODIC v3.15.   
+4. Artifact removal was performed using fsl_regfilt in FSL’s MELODIC v3.15.   
 
 All code for data denoising and technical validation can be found at https://github.com/xingyu-liu/studyforrest_denoise.  
 
