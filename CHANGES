@@ -1,5 +1,5 @@
 1.2.2 2019.07.31
-  - Rename files to add description infomation according to BIDS v1.3.0 dev
+  - Rename files to add description information according to BIDS v1.3.0 dev
   - Update README
   - Update Dataset_description.json  
   
