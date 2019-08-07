@@ -1,4 +1,5 @@
-A denoised audio-visual movie watching fMRI data in studyforrest dataset
+A manually denoised audio-visual movie watching fMRI dataset for the studyforrest project
+====================  
 
 Note: This dataset is compatible with the BIDS v1.3.0-dev as a standalone derivative dataset. 
 Due to that the OpenNeuro.org does not support the BIDs v1.3.0 yet ('desc-<label>' in file names), 
@@ -22,7 +23,7 @@ Sci. Data 3, 160092 (2016).
 
 Pipeline description
 ====================
-A four-step procedure was used to denoise the movie-watching fMRI data from the studyforrest project, 
+A four-step procedure was used to denoise the movie-watching fMRI dataset from the studyforrest project, 
 producing a denoised version of the data.  
 
 1. The data were preprocessed using FEAT in FSL v6.00 (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FEAT) 
